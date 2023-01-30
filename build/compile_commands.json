@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/phamcongminh/Desktop/Minh_Workspace/exercise/vector/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/phamcongminh/Desktop/Minh_Workspace/exercise/vector/main.cpp",
+  "file": "/home/phamcongminh/Desktop/Minh_Workspace/exercise/vector/main.cpp"
+},
+{
+  "directory": "/home/phamcongminh/Desktop/Minh_Workspace/exercise/vector/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/vector.cpp.o -c /home/phamcongminh/Desktop/Minh_Workspace/exercise/vector/vector.cpp",
+  "file": "/home/phamcongminh/Desktop/Minh_Workspace/exercise/vector/vector.cpp"
+}
+]
